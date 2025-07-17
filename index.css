@@ -1,0 +1,33 @@
+h2 {
+  color: blue;
+  margin-top: 4px;
+}
+.buy {
+  color: lightblue;
+  background-color: blue;
+  border-radius: 3px;
+  font-family: sans-serif;
+}
+
+.product {
+  border: 1px solid;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+  background-color: lightyellow;
+  font-family: sans-serif;
+}
+
+.original {
+  text-decoration: line-through;
+  color: red;
+}
+
+.sale {
+  color: green;
+  font-weight: bold;
+  font-size: 1.2em;
+}
+.tagline {
+  font-style: italic;
+}
